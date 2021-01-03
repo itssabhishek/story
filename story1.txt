@@ -1,1 +1,2 @@
 Hi, this is just for training purposes.
+This is open in a new branch.
